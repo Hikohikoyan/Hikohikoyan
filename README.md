@@ -21,7 +21,7 @@ Hi there 👋
 
 - 🌱 I’m currently learning **Engine Programming and graphic programming**
 
-- 👨‍💻 All of my projects are available at [https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4](https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4)
+- 👨‍💻 All of my projects are available at [[https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4](https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4)](https://hikohiko.notion.site/Portfolio-707032c617a24d2395321b8f015af85f?pvs=4)
 
 - 📝 I regularly write articles on [https://hikohiko.notion.site/Hiko-s-Blog-df6eb458e3e9492592b3868035ea87ca?pvs=4](https://hikohiko.notion.site/Hiko-s-Blog-df6eb458e3e9492592b3868035ea87ca?pvs=4)
 
