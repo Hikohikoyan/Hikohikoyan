@@ -21,12 +21,12 @@ Hi there 👋
 
 - 🌱 I’m currently learning **Engine Programming and graphic programming**
 
-- 👨‍💻 All of my projects are available at [[https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4](https://hikohiko.notion.site/Hiko-Portfolio-707032c617a24d2395321b8f015af85f?pvs=4)](https://hikohiko.notion.site/Portfolio-707032c617a24d2395321b8f015af85f?pvs=4)
+- 👨‍💻 All of my projects are available at **[Portfolio](http://tinyurl.com/hikoyan)**
 
-- 📝 I regularly write articles on [https://hikohiko.notion.site/Hiko-s-Blog-df6eb458e3e9492592b3868035ea87ca?pvs=4](https://hikohiko.notion.site/Hiko-s-Blog-df6eb458e3e9492592b3868035ea87ca?pvs=4)
+- 📝 I regularly write articles on **[Hiko's Notebook](http://tinyurl.com/hikonote)**
 
 - 📫 How to reach me **heyhikoyan@gmail.com**
-- Get My Opensource Blueprint-graph Here 👉 https://blueprintue.com/profile/goddrunkcat/
+- Get My Opensource Blueprint-graph Here 👉 **[Blueprintue_Profiles](https://blueprintue.com/profile/goddrunkcat/)**
 <!--
 - <h3 align="left">Connect with me:</h3>
 - <p align="left">
